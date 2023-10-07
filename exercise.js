@@ -1,4 +1,4 @@
-const number = 10; 
+const number = 15; 
 
 const checkNumber = (number) => {
     return new Promise((resolve, reject) => {
